@@ -1,0 +1,1 @@
+python detect_or_track.py --weight yolov7.pt --no-trace --view-img --source street2.mp4 --seed 2 --track --classes 0 --thickness 1
