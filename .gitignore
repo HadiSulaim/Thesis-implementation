@@ -2,4 +2,9 @@
 *.avi
 *.mp4
 
+segment-anything-2/.venv
+segment-anything-2/checkpoints/*.pt
+segment-anything-2/outputs/*
+
+
 venv/
